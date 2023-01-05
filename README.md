@@ -6,6 +6,9 @@
 - 📫 Contact: [email](mailto:sharunkumar@outlook.in), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+
 <!--
 **sharunkumar/sharunkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
