@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Sharun 👋
 
-- 🌱 I’m currently learning Information Systems at Northeastern University
-- 📫 How to reach me: [email](mailto:sharunkumar@outlook.in), [telegram](https://t.me/sharunkumar)
+- 💻 Software Developer with 5 years of experience
+- 📌 Boston, MA, USA
+- 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
+- 📫 Contact: [email](mailto:sharunkumar@outlook.in), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
 <!--
