@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Information Systems at Northeastern University
+- 📫 How to reach me: [email](mailto:sharunkumar@outlook.in), [telegram](https://t.me/sharunkumar)
+- 😄 Pronouns: He/Him
+
 <!--
 **sharunkumar/sharunkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
