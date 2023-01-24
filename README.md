@@ -3,7 +3,7 @@
 - 💻 Software Developer with 5 years of experience
 - 📌 Boston, MA, USA
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
-- 📫 Contact: [email](mailto:sharunkumar@outlook.in), [telegram](https://t.me/sharunkumar)
+- 📫 Contact: [email](mailto:sharun@sharunkumar.com), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
