@@ -14,7 +14,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharunkumar&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharunkumar&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS&card_width=445px)
 
 <!-- </div> -->
 
