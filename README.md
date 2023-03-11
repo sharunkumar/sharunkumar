@@ -6,7 +6,18 @@
 - 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+<br>
+
+<!-- <div align="center"> -->
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharunkumar&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS)
+
+<!-- </div> -->
+
 
 
 <!--
