@@ -6,8 +6,6 @@
 - 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
-<br>
-
 ### My UI/UX Mock-ups
 - HDFC Mobile App Re-Design in iOS (Moqups) [Link](uiux/hdfc.pdf)
 - Shein App Redesign for Cart Abandonment Issue (Moqups) [Link](uiux/shein.pdf)
