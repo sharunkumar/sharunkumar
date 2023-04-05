@@ -8,6 +8,11 @@
 
 <br>
 
+### My UI/UX Mock-ups
+- HDFC Mobile App Re-Design in iOS - Moqups [Link](uiux/hdfc.pdf)
+- Shein App Redesign for Cart Abandonment - Moqups [Link](uiux/shein.pdf)
+- Walmart - Balsamiq Wireframes [Link](uiux/walmart.pdf)
+
 <!-- <div align="center"> -->
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true)
