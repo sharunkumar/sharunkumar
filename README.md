@@ -9,9 +9,9 @@
 <br>
 
 ### My UI/UX Mock-ups
-- HDFC Mobile App Re-Design in iOS - Moqups [Link](uiux/hdfc.pdf)
-- Shein App Redesign for Cart Abandonment - Moqups [Link](uiux/shein.pdf)
-- Walmart - Balsamiq Wireframes [Link](uiux/walmart.pdf)
+- HDFC Mobile App Re-Design in iOS (Moqups) [Link](uiux/hdfc.pdf)
+- Shein App Redesign for Cart Abandonment Issue (Moqups) [Link](uiux/shein.pdf)
+- Walmart (Balsamiq Wireframes) [Link](uiux/walmart.pdf)
 
 <!-- <div align="center"> -->
 
