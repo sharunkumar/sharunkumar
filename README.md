@@ -7,7 +7,8 @@
 - 😄 Pronouns: He/Him
 
 ### My UI/UX Mock-ups
-- HDFC Mobile App Re-Design in iOS (Moqups) [Link](uiux/hdfc.pdf)
+- HDFC Mobile App Re-Design in iOS (Figma) [Link](uiux/hdfc-figma.pdf)
+- HDFC Mobile App Re-Design in iOS (Moqups) [Link](uiux/hdfc-moqups.pdf)
 - Shein App Redesign for Cart Abandonment Issue (Moqups) [Link](uiux/shein.pdf)
 - Walmart (Balsamiq Wireframes) [Link](uiux/walmart.pdf)
 
