@@ -13,16 +13,16 @@
 - Walmart (Balsamiq Wireframes) [Link](uiux/walmart.pdf)
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharunkumar&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS"/>
-  </div>
+  </div> -->
 
 <!-- <div align="center"> -->
 
-<!-- ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharunkumar&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS&card_width=445px) -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharunkumar&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=599659&hide=CSS&card_width=445px)
 
 <!-- </div> -->
 
