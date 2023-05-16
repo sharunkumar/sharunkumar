@@ -6,7 +6,7 @@
 - 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
-### My UI/UX Mock-ups
+### My UI/UX Projects
 - HDFC Mobile App Re-Design in iOS (Figma) [Link](https://www.figma.com/file/WhL3hXe0QQroN7jPQizwgy/HDFC?type=design&node-id=3%3A1414&t=9uCHIOcDO6AAndGd-1)
 - HDFC Mobile App Re-Design in iOS (Moqups) [Link](uiux/hdfc-moqups.pdf)
 - Shein App Redesign for Cart Abandonment Issue (Moqups) [Link](uiux/shein.pdf)
