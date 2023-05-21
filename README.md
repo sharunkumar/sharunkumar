@@ -3,6 +3,7 @@
 - 💻 Software Developer with 5 years of experience
 - 📌 Boston, MA, USA
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
+- 🦀 Currently learning Rust and working on [my app](https://github.com/sharunkumar/janitor)
 - 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
 - 😄 Pronouns: He/Him
 
