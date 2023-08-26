@@ -5,7 +5,6 @@
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
 - 🦀 Currently learning Rust and working on [my app](https://github.com/sharunkumar/janitor)
 - 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
-- 😄 Pronouns: He/Him
 
 ### My UI/UX Projects
 - HDFC Mobile App Re-Design in iOS (Figma) [Link](https://www.figma.com/file/WhL3hXe0QQroN7jPQizwgy/HDFC?type=design&node-id=3%3A1414&t=9uCHIOcDO6AAndGd-1)
