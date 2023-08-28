@@ -7,7 +7,7 @@
 - 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
 
 ### My UI/UX Projects
-- TravelAI UX Project (Figma) [Link](https://www.figma.com/file/Uv0S4uupgJl5vhsMr4Mvvl/TravelAI-App?type=design&node-id=263%3A4105&mode=design&t=BWs8D8m4SrylKl6m-1)
+- TravelAI UX Project (Figma) [Link](https://www.figma.com/file/Uv0S4uupgJl5vhsMr4Mvvl/TravelAI-App?type=design&node-id=263%3A4106&mode=design&t=11lHn7UyfrsDP0uN-1)
 - HDFC Mobile App Re-Design in iOS (Figma) [Link](https://www.figma.com/file/WhL3hXe0QQroN7jPQizwgy/HDFC?type=design&node-id=3%3A1414&t=9uCHIOcDO6AAndGd-1)
 - HDFC Mobile App Re-Design in iOS (Moqups) [Link](uiux/hdfc-moqups.pdf)
 - Shein App Redesign for Cart Abandonment Issue (Moqups) [Link](uiux/shein.pdf)
