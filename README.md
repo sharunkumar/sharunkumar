@@ -4,7 +4,7 @@
 - 📌 Boston, MA, USA
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
 - 🦀 Currently learning Rust and working on my apps: [janitor service](https://github.com/sharunkumar/janitor) (Rust), [Summer 2024 internships](https://github.com/sharunkumar/Summer2024-Internships) and [New Grad positions](https://github.com/sharunkumar/New-Grad-Positions), and [Voyager](https://github.com/sharunkumar/voyager) (Lemmy client, written in TypeScript).
-- 📫 Contact: sharun@sharunkumar.com, [linkedin](https://www.linkedin.com/in/sharun-kumar-ks/), [telegram](https://t.me/sharunkumar)
+- 📫 Contact: sharun@sharunkumar.com, [LinkedIn](https://www.linkedin.com/in/sharun-kumar-ks/), [Telegram](https://t.me/sharunkumar)
 
 ### My UI/UX Projects
 - TravelAI Project (Figma) [Link](https://www.figma.com/file/Uv0S4uupgJl5vhsMr4Mvvl/TravelAI-App?type=design&node-id=263%3A4106&mode=design&t=11lHn7UyfrsDP0uN-1)
