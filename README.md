@@ -1,9 +1,9 @@
 ### Hi there, I'm Sharun 👋
 
-- 💻 Software Developer with 5 years of experience
+- 💻 Software Developer
 - 📌 Boston, MA, USA
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
-- 🦀 Currently learning Rust and working on my apps: [janitor service](https://github.com/sharunkumar/janitor) (Rust), [Summer 2024 internships](https://github.com/sharunkumar/Summer2024-Internships) and [New Grad positions](https://github.com/sharunkumar/New-Grad-Positions), and [Voyager](https://github.com/sharunkumar/voyager) (Lemmy client, written in TypeScript).
+- 🦀 Currently learning Rust and working on my apps: [janitor service](https://github.com/sharunkumar/janitor) (Rust), and [Voyager](https://github.com/sharunkumar/voyager) (Lemmy client, written in TypeScript).
 - 📫 Contact: sharun@sharunkumar.com, [LinkedIn](https://www.linkedin.com/in/sharun-kumar-ks/), [Telegram](https://t.me/sharunkumar)
 
 ### My UI/UX Projects
