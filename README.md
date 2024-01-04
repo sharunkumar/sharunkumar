@@ -13,6 +13,11 @@
 - Shein App Redesign for Cart Abandonment Issue (Moqups) [Link](uiux/shein.pdf)
 - Walmart (Balsamiq Wireframes) [Link](uiux/walmart.pdf)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharunkumar/sharunkumar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharunkumar/sharunkumar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sharunkumar/sharunkumar/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharunkumar&stroke=C5C5C5&background=000000&ring=599659&fire=599659&currStreakNum=C5C5C5&currStreakLabel=599659&sideNums=C5C5C5&sideLabels=599659&dates=ffffff&hide_border=true"/>
@@ -43,9 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharunkumar/sharunkumar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharunkumar/sharunkumar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sharunkumar/sharunkumar/output/github-contribution-grid-snake.svg">
-</picture>
