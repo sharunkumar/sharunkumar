@@ -3,7 +3,8 @@
 - 💻 SDE Co-Op @ Tesla
 - 📌 Fremont, CA, USA
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
-- 🦀 Currently learning Rust and working on my apps: [janitor service](https://github.com/sharunkumar/janitor) (Rust), and [Voyager](https://github.com/sharunkumar/voyager) (Lemmy client, written in TypeScript).
+- 🚀 Currently learning Go
+- 🧰 Working on apps: [janitor service](https://github.com/sharunkumar/janitor) (Rust), and [Voyager](https://github.com/sharunkumar/voyager) (Lemmy client, written in TypeScript).
 - 📫 Contact: sharun@sharunkumar.com, [LinkedIn](https://www.linkedin.com/in/sharun-kumar-ks/), [Telegram](https://t.me/sharunkumar)
 
 ### My UI/UX Projects
