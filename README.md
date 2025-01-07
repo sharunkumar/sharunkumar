@@ -1,6 +1,6 @@
 ### Hi there, I'm Sharun 👋
 
-- 💻 SDE Co-Op @ Tesla
+- 💻 SDE @ Tesla
 - 📌 Fremont, CA, USA
 - 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
 - 🚀 Currently learning Go
