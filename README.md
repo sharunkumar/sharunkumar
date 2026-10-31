@@ -1,7 +1,7 @@
 ### Hi there, I'm Sharun 👋
 
-- 💻 SDE @ Tesla
-- 📌 Fremont, CA, USA
+- 💻 Factory Software @ Tesla
+- 📌 Bay Area, CA, USA
 - 🎓 MS in Information Systems at [Northeastern University](https://www.northeastern.edu/)
 - 📫 Contact: sharun@sharunkumar.com, [LinkedIn](https://www.linkedin.com/in/sharun-kumar-ks/), [Telegram](https://t.me/sharunkumar)
 
