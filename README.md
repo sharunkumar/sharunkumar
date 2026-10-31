@@ -2,9 +2,7 @@
 
 - 💻 SDE @ Tesla
 - 📌 Fremont, CA, USA
-- 🎓 Pursuing Masters Degree in Information Systems at [Northeastern University](https://www.northeastern.edu/)
-- 🚀 Currently learning Go
-- 🧰 Working on apps: [janitor service](https://github.com/sharunkumar/janitor) (Rust), and [Voyager](https://github.com/sharunkumar/voyager) (Lemmy client, written in TypeScript).
+- 🎓 MS in Information Systems at [Northeastern University](https://www.northeastern.edu/)
 - 📫 Contact: sharun@sharunkumar.com, [LinkedIn](https://www.linkedin.com/in/sharun-kumar-ks/), [Telegram](https://t.me/sharunkumar)
 
 ### My UI/UX Projects
@@ -46,20 +44,3 @@
 
 
 <!-- </div> -->
-
-
-
-<!--
-**sharunkumar/sharunkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
